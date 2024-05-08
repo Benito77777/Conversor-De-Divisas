@@ -2,7 +2,9 @@ Conversor de divisas
 
 Es el primer desafío Back-End desarrollado en Java del programa ONE (Oracle Next Education)
 
-Este proyecto permite al usuario ingresar un valor para hacer una conversión de una divisa a otra, estas son las divisas admitidas: De pesos(MXN) a Dolar De pesos(MXN) a Euro De pesos(MXN) a Libras Esterlinas De pesos(MXN ) a Yen De pesos(MXN) a Won Coreano
+Este proyecto permite al usuario ingresar un valor para hacer una conversión de una divisa a otra, estas son las divisas admitidas: 
+
+De pesos(MXN) a Dolar De pesos(MXN) a Euro De pesos(MXN) a Libras Esterlinas De pesos(MXN ) a Yen De pesos(MXN) a Won Coreano
 
 Y viceversa: De Dólar a pesos(MXN) De Euro a pesos(MXN) De Libras Esterlinas a pesos(MXN) De Yen a pesos(MXN) De Won Coreano a pesos(MXN)
 
